@@ -2,7 +2,7 @@
 
 Page can be viewed at https://dvbarnett.github.io/plotly_deployment/
 
-##Summary
+## Summary
 
 Client Roza needed assistance in building her Belly Button Culture Diversity Dashboard in order to present study participants and stakeholders with the data found. We utilized HTML, Bootstrap, Javascript and the Plotly library to pull this project together.
 
