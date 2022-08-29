@@ -1,0 +1,9 @@
+body {background-color:lavenderblush;
+font-family:'Times New Roman', Times, serif}
+
+.jumbotron{
+    background-image: url("../images/3-staphylococcus-bacteria-science-photo-library.jpg");
+    background-size: 100% 100%;
+    color: white;
+    text-shadow: 2px 2px 8px #000000
+}
